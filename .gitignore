@@ -58,4 +58,3 @@ target/
 
 # Ignore all raw data
 *.pdf
-*.csv
